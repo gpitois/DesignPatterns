@@ -1,4 +1,4 @@
-package com.company;
+package com.company.factory;
 
 /**
  * Created by GP on 3/12/2016.
